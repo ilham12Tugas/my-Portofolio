@@ -80,13 +80,13 @@ const DATA = {
       ],
     },
     {
-      slug: "timeline-ai",
-      year: "2025",
+      slug: "timeline Peta Wilayah",
+      year: "2026",
       side: "left",
-      title: "AI Analysis & Web Development",
+      title: "Pembuatan Peta Wilayah Dengan Qgis",
       desc: "Fokus pada proyek AI berbasis Python untuk analisis atlet dan visualisasi data tanaman bunga matahari dengan layout interaktif.",
       images: [
-        { src: "/images/timeline/ai-1.jpg", label: "AI ANALYSIS", variant: 2 },
+        { src: "/images/timeline/ai-1.jpg", label: "Peta Administrasi Wilayah", variant: 2 },
         { src: "/images/timeline/ai-2.jpg", label: "ATHLETE DATA", variant: 3 },
         {
           src: "/images/timeline/ai-3.jpg",
