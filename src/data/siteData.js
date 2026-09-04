@@ -42,7 +42,7 @@ const DATA = {
     },
     {
       key: "tiktok",
-      url: "https://www.tiktok.com/@ilham_aja.1?_r=1&_t=ZS-96Aa0samybY",
+      url: "https://www.tiktok.com/@ilham.exe_?_r=1&_t=ZS-99RFj7JgTis",
     },
     { key: "facebook", url: "#" },
   ],
