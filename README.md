@@ -58,7 +58,7 @@ npm run preview
 ## Mengubah Konten
 
 Semua teks (nama, timeline, skills, project, kontak) ada di satu file:
-`src/data/siteData.js` — tidak perlu menyentuh komponen untuk update konten.
+`src/data/siteData.js`
 
 ## Tema
 
